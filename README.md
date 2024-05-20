@@ -1,6 +1,9 @@
- <img align="center" src="https://raw.githubusercontent.com/selemondev/nuxt-emoji-picker/master/assets/nuxt-emoji-picker.png" height="96" />
-
-# Nuxt Emoji Picker
+<p align="center">
+ <img align="center" src="https://raw.githubusercontent.com/selemondev/nuxt-emoji-picker/master/assets/nuxt-emoji-picker.png" />
+ <h1 align="center">
+ Nuxt Emoji Picker
+ </h1>
+</p>
 
 [![npm-version-src](https://img.shields.io/npm/v/nuxt-emoji-picker/latest.svg?style=flat&colorA=020420&colorB=00DC82)](https://www.npmjs.com/package/nuxt-emoji-picker)   [![npm-downloads-src](https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=020420&colorB=00DC82)](https://npmjs.com/package/nuxt-emoji-picker)   [![nuxt-src](https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js)](https://nuxt.com)
 

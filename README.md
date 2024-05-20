@@ -1,41 +1,49 @@
-<!--
-Get your module up and running quickly.
+# Nuxt Emoji Picker
 
-Find and replace all on all files (CMD+SHIFT+F):
-- Name: My Module
-- Package name: my-module
-- Description: My new Nuxt module
--->
+[![npm-version-src](https://img.shields.io/npm/v/nuxt-emoji-picker/latest.svg?style=flat&colorA=020420&colorB=00DC82)](https://www.npmjs.com/package/nuxt-emoji-picker)   [![npm-downloads-src](https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=020420&colorB=00DC82)](https://npmjs.com/package/nuxt-emoji-picker)   [![nuxt-src](https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js)](https://nuxt.com)
 
-# My Module
-
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![License][license-src]][license-href]
-[![Nuxt][nuxt-src]][nuxt-href]
-
-My new Nuxt module for doing amazing things.
-
-- [✨ &nbsp;Release Notes](/CHANGELOG.md)
-<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/my-module?file=playground%2Fapp.vue) -->
-<!-- - [📖 &nbsp;Documentation](https://example.com) -->
 
 ## Features
 
-<!-- Highlight some of the features your module provide here -->
-- ⛰ &nbsp;Foo
-- 🚠 &nbsp;Bar
-- 🌲 &nbsp;Baz
+- Add emojis to your Nuxt 3 applocation effortlessly
 
 ## Quick Setup
 
-Install the module to your Nuxt application with one command:
+1. Install the module in your Nuxt application with one command:
 
 ```bash
-npx nuxi module add my-module
+npx nuxi@latest module add nuxt-emoji-picker
 ```
 
-That's it! You can now use My Module in your Nuxt app ✨
+That's it! You can now use nuxt-emoji-picker in your Nuxt app ✨
+
+### Usage
+
+You can use the `nuxt-emoji-picker` component as shown below:
+
+```vue
+<template>
+
+  <NuxtEmojiPicker
+    :hide-search="false"
+    theme="light"
+    @select="onSelectEmoji"
+  />
+
+</template>
+
+<script setup>
+import { ref } from 'vue'
+
+const selectedEmoji = ref()
+
+const onSelectEmoji = (emoji) => {
+  selectedEmoji.value = emoji.i
+}
+</script>
+```
+
+You can check out all the available props and methods [here](https://github.com/delowardev/vue3-emoji-picker/?tab=readme-ov-file#options-props)
 
 
 ## Contribution
@@ -69,16 +77,3 @@ That's it! You can now use My Module in your Nuxt app ✨
 
 </details>
 
-
-<!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/my-module/latest.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-version-href]: https://npmjs.com/package/my-module
-
-[npm-downloads-src]: https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-downloads-href]: https://npmjs.com/package/my-module
-
-[license-src]: https://img.shields.io/npm/l/my-module.svg?style=flat&colorA=020420&colorB=00DC82
-[license-href]: https://npmjs.com/package/my-module
-
-[nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
-[nuxt-href]: https://nuxt.com

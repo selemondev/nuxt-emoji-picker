@@ -1,8 +1,8 @@
 {
-  "name": "my-module",
+  "name": "nuxt-emoji-picker",
   "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "your-org/my-module",
+  "description": "Simple and Powerful Emoji Picker for Nuxt 3 ✨",
+  "repository": "selemondev/nuxt-emoji-picker",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -29,7 +29,8 @@
     "test:types": "vue-tsc --noEmit && cd playground && vue-tsc --noEmit"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.11.2"
+    "@nuxt/kit": "^3.11.2",
+    "vue3-emoji-picker": "^1.1.8"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.2.0",

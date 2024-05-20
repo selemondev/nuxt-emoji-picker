@@ -10,7 +10,7 @@
 
 ## Features
 
-- Add emojis to your Nuxt 3 applocation effortlessly
+- Add emojis to your Nuxt 3 application effortlessly
 
 ## Quick Setup
 

@@ -12,10 +12,9 @@
 
 ### Play with it on [Stackblitz](https://stackblitz.com/edit/nuxt-starter-qstqbs?file=app.vue)
 
-
 ### Watch video
 
-<video controls src="https://raw.githubusercontent.com/selemondev/nuxt-emoji-picker/main/assets/nuxt-emoji-picker.mp4"></video>
+https://github.com/selemondev/nuxt-emoji-picker/assets/106826371/32b3ab4f-13cd-4c7e-918b-f2b4daa00cde
 
 ## Features
 

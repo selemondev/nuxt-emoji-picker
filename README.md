@@ -8,6 +8,15 @@
 [![npm-version-src](https://img.shields.io/npm/v/nuxt-emoji-picker/latest.svg?style=flat&colorA=020420&colorB=00DC82)](https://www.npmjs.com/package/nuxt-emoji-picker)   [![npm-downloads-src](https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=020420&colorB=00DC82)](https://npmjs.com/package/nuxt-emoji-picker)   [![nuxt-src](https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js)](https://nuxt.com)
 
 
+## Demo
+
+### Play with it on [Stackblitz](https://stackblitz.com/edit/nuxt-starter-qstqbs?file=app.vue)
+
+
+### Watch video
+
+<video controls src="https://raw.githubusercontent.com/selemondev/nuxt-emoji-picker/master/assets/nuxt-emoji-picker.mp4"></video>
+
 ## Features
 
 - Add emojis to your Nuxt 3 application effortlessly

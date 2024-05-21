@@ -15,7 +15,7 @@
 
 ### Watch video
 
-<video controls src="./assets/nuxt-emoji-picker.mp4"></video>
+<video controls src="https://raw.githubusercontent.com/selemondev/nuxt-emoji-picker/main/assets/nuxt-emoji-picker.mp4"></video>
 
 ## Features
 

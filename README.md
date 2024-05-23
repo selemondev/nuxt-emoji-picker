@@ -18,7 +18,7 @@ https://github.com/selemondev/nuxt-emoji-picker/assets/106826371/32b3ab4f-13cd-4
 
 ## Features
 
-- Add emojis to your Nuxt 3 application effortlessly
+- Add emojis to your Nuxt 3 application effortlessly.
 
 ## Quick Setup
 

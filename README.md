@@ -28,7 +28,7 @@ https://github.com/selemondev/nuxt-emoji-picker/assets/106826371/32b3ab4f-13cd-4
 npx nuxi@latest module add nuxt-emoji-picker
 ```
 
-That's it! You can now use nuxt-emoji-picker in your Nuxt app ✨
+That's it! You can now use nuxt-emoji-picker in your Nuxt application ✨
 
 ### Usage
 

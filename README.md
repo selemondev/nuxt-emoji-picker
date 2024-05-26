@@ -5,8 +5,17 @@
  </h1>
 </p>
 
-[![npm-version-src](https://img.shields.io/npm/v/nuxt-emoji-picker/latest.svg?style=flat&colorA=020420&colorB=00DC82)](https://www.npmjs.com/package/nuxt-emoji-picker)   [![npm-downloads-src](https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=020420&colorB=00DC82)](https://npmjs.com/package/nuxt-emoji-picker)   [![nuxt-src](https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js)](https://nuxt.com)
-
+<p align="center">
+  <a href="https://www.npmjs.com/package/nuxt-emoji-picker">
+    <img alt="npm-version-src" src="https://img.shields.io/npm/v/nuxt-emoji-picker/latest.svg?style=flat&colorA=020420&colorB=00DC82" />
+  </a>
+  <a href="https://npmjs.com/package/nuxt-emoji-picker">
+    <img alt="npm-downloads-src" src="https://img.shields.io/npm/dm/nuxt-emoji-picker.svg?style=flat&colorA=020420&colorB=00DC82" />
+  </a>
+  <a href="https://nuxt.com">
+    <img alt="nuxt-src" src="https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js" />
+  </a>
+</p>
 
 ## Demo
 

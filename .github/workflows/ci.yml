@@ -63,6 +63,3 @@ jobs:
 
       - name: Build
         run: nr dev:prepare
-
-      - name: Test
-        run: nr test

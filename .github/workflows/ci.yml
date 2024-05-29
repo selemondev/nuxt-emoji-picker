@@ -30,7 +30,7 @@ jobs:
         run: nci
 
       - name: Build
-        run: nr build
+        run: nr dev:prepare
 
       - name: Lint
         run: nr lint
@@ -62,7 +62,7 @@ jobs:
         run: nci
 
       - name: Build
-        run: nr build
+        run: nr dev:prepare
 
       - name: Build
         run: nr test

@@ -2,6 +2,7 @@
   "name": "nuxt-emoji-picker",
   "version": "1.1.0",
   "description": "Simple and Powerful Emoji Picker for Nuxt 3 ✨",
+  "packageManager": "pnpm@9.1.1",
   "repository": "selemondev/nuxt-emoji-picker",
   "author": "Selemondev",
   "license": "MIT",

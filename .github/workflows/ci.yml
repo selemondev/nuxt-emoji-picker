@@ -64,5 +64,5 @@ jobs:
       - name: Build
         run: nr dev:prepare
 
-      - name: Build
+      - name: Test
         run: nr test

@@ -2,7 +2,7 @@
   "name": "nuxt-emoji-picker",
   "version": "1.1.0",
   "description": "Simple and Powerful Emoji Picker for Nuxt 3 ✨",
-  "packageManager": "pnpm@9.1.1",
+  "packageManager": "pnpm@9.15.9",
   "repository": "selemondev/nuxt-emoji-picker",
   "author": "Selemondev",
   "license": "MIT",
@@ -31,21 +31,21 @@
     "test:types": "vue-tsc --noEmit && cd playground && vue-tsc --noEmit"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.11.2",
+    "@nuxt/kit": "^3.16.2",
     "vue3-emoji-picker": "^1.1.8"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^1.2.0",
-    "@nuxt/eslint-config": "^0.3.10",
+    "@nuxt/devtools": "^1.7.0",
+    "@nuxt/eslint-config": "^0.3.13",
     "@nuxt/module-builder": "^0.6.0",
-    "@nuxt/schema": "^3.11.2",
-    "@nuxt/test-utils": "^3.12.1",
-    "@types/node": "^20.12.11",
-    "changelogen": "^0.5.5",
-    "eslint": "^9.2.0",
-    "nuxt": "^3.11.2",
+    "@nuxt/schema": "^3.16.2",
+    "@nuxt/test-utils": "^3.17.2",
+    "@types/node": "^20.17.30",
+    "changelogen": "^0.5.7",
+    "eslint": "^9.24.0",
+    "nuxt": "^3.16.2",
     "typescript": "latest",
-    "vitest": "^1.6.0",
-    "vue-tsc": "^2.0.16"
+    "vitest": "^1.6.1",
+    "vue-tsc": "^2.2.8"
   }
 }

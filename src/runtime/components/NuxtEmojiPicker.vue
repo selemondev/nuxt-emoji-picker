@@ -5,10 +5,6 @@ interface GroupNames {
   [key: string]: string
 }
 
-interface StaticTexts extends GroupNames {}
-
-interface GroupIcons extends GroupNames {}
-
 type ColorTheme = 'light' | 'dark' | 'auto'
 
 const props = defineProps<{

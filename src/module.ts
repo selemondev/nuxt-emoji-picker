@@ -1,8 +1,6 @@
 import { defineNuxtModule, createResolver, addComponent } from '@nuxt/kit'
 
-export interface ModuleOptions {}
-
-export default defineNuxtModule<ModuleOptions>({
+export default defineNuxtModule<Record<string, never>>({
   meta: {
     name: 'nuxt-emoji-picker',
     configKey: 'emoji',

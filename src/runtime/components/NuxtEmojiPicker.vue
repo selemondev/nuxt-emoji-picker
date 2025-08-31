@@ -5,6 +5,14 @@ interface GroupNames {
   [key: string]: string
 }
 
+interface StaticTexts {
+  [key: string]: string
+}
+
+interface GroupIcons {
+  [key: string]: string
+}
+
 type ColorTheme = 'light' | 'dark' | 'auto'
 
 const props = defineProps<{

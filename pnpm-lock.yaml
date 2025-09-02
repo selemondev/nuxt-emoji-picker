@@ -25,8 +25,8 @@ importers:
         specifier: ^0.6.0
         version: 0.6.0(@nuxt/kit@3.18.1(magicast@0.3.5))(nuxi@3.28.0)(typescript@5.9.2)(vue-tsc@2.2.12(typescript@5.9.2))
       '@nuxt/schema':
-        specifier: ^3.18.1
-        version: 3.18.1
+        specifier: ^4.0.3
+        version: 4.0.3
       '@nuxt/test-utils':
         specifier: ^3.19.2
         version: 3.19.2(magicast@0.3.5)(typescript@5.9.2)(vitest@1.6.1(@types/node@20.19.11)(terser@5.43.1))
@@ -1180,10 +1180,6 @@ packages:
     peerDependencies:
       '@nuxt/kit': ^3.11.2
       nuxi: ^3.11.1
-
-  '@nuxt/schema@3.18.1':
-    resolution: {integrity: sha512-0237FcmSklop7qZUzldPn01wF6R1subQpkhgJKciONV3n4pu4DDYObTLzG9R3zGvXYRNfeMX38ktxVY2TMQ3AQ==}
-    engines: {node: ^14.18.0 || >=16.10.0}
 
   '@nuxt/schema@4.0.3':
     resolution: {integrity: sha512-acDigyy8tF8xDCMFee00mt5u2kE5Qx5Y34ButBlibLzhguQjc+6f6FpMGdieN07oahjpegWIQG66yQywjw+sKw==}
@@ -6473,15 +6469,6 @@ snapshots:
       - supports-color
       - typescript
       - vue-tsc
-
-  '@nuxt/schema@3.18.1':
-    dependencies:
-      '@vue/shared': 3.5.20
-      consola: 3.4.2
-      defu: 6.1.4
-      pathe: 2.0.3
-      std-env: 3.9.0
-      ufo: 1.6.1
 
   '@nuxt/schema@4.0.3':
     dependencies:

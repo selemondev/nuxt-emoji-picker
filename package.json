@@ -31,7 +31,7 @@
     "test:types": "vue-tsc --noEmit && cd playground && vue-tsc --noEmit"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.18.1",
+    "@nuxt/kit": "^4.1.1",
     "vue3-emoji-picker": "^1.1.8"
   },
   "devDependencies": {

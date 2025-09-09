@@ -1,6 +1,32 @@
 # Changelog
 
 
+## v1.2.1
+
+[compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.0...v1.2.1)
+
+### 📖 Documentation
+
+- Update badges ([8359f0b](https://github.com/selemondev/nuxt-emoji-picker/commit/8359f0b))
+
+### 🏡 Chore
+
+- **deps-dev:** Bump vitest from 1.6.1 to 3.2.4 ([3e1b7e6](https://github.com/selemondev/nuxt-emoji-picker/commit/3e1b7e6))
+- **deps-dev:** Bump @nuxt/schema from 3.18.1 to 4.0.3 ([8982447](https://github.com/selemondev/nuxt-emoji-picker/commit/8982447))
+- **deps-dev:** Bump @nuxt/module-builder from 0.6.0 to 1.0.2 ([1ba3d77](https://github.com/selemondev/nuxt-emoji-picker/commit/1ba3d77))
+- **deps-dev:** Bump changelogen from 0.5.7 to 0.6.2 ([58c18d9](https://github.com/selemondev/nuxt-emoji-picker/commit/58c18d9))
+- **deps-dev:** Bump @nuxt/schema from 4.0.3 to 4.1.1 ([7517f6b](https://github.com/selemondev/nuxt-emoji-picker/commit/7517f6b))
+- **deps-dev:** Bump @types/node from 20.19.11 to 24.3.1 ([84ea75a](https://github.com/selemondev/nuxt-emoji-picker/commit/84ea75a))
+- **deps-dev:** Bump eslint from 9.34.0 to 9.35.0 ([947941d](https://github.com/selemondev/nuxt-emoji-picker/commit/947941d))
+- **deps-dev:** Bump nuxt from 4.0.3 to 4.1.1 ([36cdc3d](https://github.com/selemondev/nuxt-emoji-picker/commit/36cdc3d))
+- Remove types field in package.json ([9e98258](https://github.com/selemondev/nuxt-emoji-picker/commit/9e98258))
+- Remove types field in package.json ([5f9f44f](https://github.com/selemondev/nuxt-emoji-picker/commit/5f9f44f))
+- Replace .cjs with .mjs ([647873c](https://github.com/selemondev/nuxt-emoji-picker/commit/647873c))
+
+### ❤️ Contributors
+
+- Selemondev <selemondev19@gmail.com>
+
 ## v1.2.0
 
 [compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.1.0...v1.2.0)

@@ -5,17 +5,16 @@
  </h1>
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/nuxt-emoji-picker">
-    <img alt="npm-version-src" src="https://img.shields.io/npm/v/nuxt-emoji-picker/latest.svg?style=flat&colorA=020420&colorB=00DC82" />
-  </a>
-  <a href="https://npmjs.com/package/nuxt-emoji-picker">
-    <img alt="npm-downloads-src" src="https://img.shields.io/npm/dm/nuxt-emoji-picker.svg?style=flat&colorA=020420&colorB=00DC82" />
-  </a>
-  <a href="https://nuxt.com">
-    <img alt="nuxt-src" src="https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js" />
-  </a>
-</p>
+<!-- automd:badges color="green" license name="nuxt-emoji-picker" codecov bundlephobia packagephobia -->
+
+[![npm version](https://img.shields.io/npm/v/nuxt-emoji-picker?color=green)](https://npmjs.com/package/nuxt-emoji-picker)
+[![npm downloads](https://img.shields.io/npm/dm/nuxt-emoji-picker?color=green)](https://npm.chart.dev/nuxt-emoji-picker)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/nuxt-emoji-picker?color=green)](https://bundlephobia.com/package/nuxt-emoji-picker)
+[![install size](https://badgen.net/packagephobia/install/nuxt-emoji-picker?color=green)](https://packagephobia.com/result?p=nuxt-emoji-picker)
+[![codecov](https://img.shields.io/codecov/c/gh/selemondev/nuxt-emoji-picker?color=green)](https://codecov.io/gh/selemondev/nuxt-emoji-picker)
+[![license](https://img.shields.io/github/license/selemondev/nuxt-emoji-picker?color=green)](https://github.com/selemondev/nuxt-emoji-picker/blob/main/LICENSE)
+
+<!-- /automd -->
 
 ## Demo
 
@@ -36,6 +35,32 @@ https://github.com/selemondev/nuxt-emoji-picker/assets/106826371/32b3ab4f-13cd-4
 ```bash
 npx nuxi@latest module add nuxt-emoji-picker
 ```
+
+2. Install with your preferred package manager:
+
+<!-- automd:pm-install name="nuxt-emoji-picker" -->
+
+```sh
+# ✨ Auto-detect
+npx nypm install nuxt-emoji-picker
+
+# npm
+npm install nuxt-emoji-picker
+
+# yarn
+yarn add nuxt-emoji-picker
+
+# pnpm
+pnpm install nuxt-emoji-picker
+
+# bun
+bun install nuxt-emoji-picker
+
+# deno
+deno install nuxt-emoji-picker
+```
+
+<!-- /automd -->
 
 That's it! You can now use nuxt-emoji-picker in your Nuxt application ✨
 
@@ -98,4 +123,3 @@ You can check out all the available props and methods [here](https://github.com/
   ```
 
 </details>
-

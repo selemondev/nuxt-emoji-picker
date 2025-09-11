@@ -51,7 +51,7 @@ npm install nuxt-emoji-picker
 yarn add nuxt-emoji-picker
 
 # pnpm
-pnpm install nuxt-emoji-picker
+pnpm add nuxt-emoji-picker
 
 # bun
 bun install nuxt-emoji-picker

@@ -26,7 +26,7 @@ importers:
         version: 1.0.2(@nuxt/cli@3.29.3(magicast@0.3.5))(@vue/compiler-core@3.5.22)(esbuild@0.25.11)(typescript@5.9.3)(vue-tsc@2.2.12(typescript@5.9.3))(vue@3.5.20(typescript@5.9.3))
       '@nuxt/schema':
         specifier: ^4.0.3
-        version: 4.1.1
+        version: 4.2.0
       '@nuxt/test-utils':
         specifier: ^3.19.2
         version: 3.19.2(magicast@0.3.5)(typescript@5.9.3)(vitest@3.2.4(@types/node@24.9.0)(jiti@2.6.1)(terser@5.44.0)(yaml@2.8.1))

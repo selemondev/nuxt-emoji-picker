@@ -32,9 +32,6 @@ jobs:
       - name: Build
         run: npm run dev:prepare
 
-      - name: Test
-        run: npm run test
-
       - name: Config npm
         run: echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
         env:

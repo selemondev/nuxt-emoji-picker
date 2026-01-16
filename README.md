@@ -114,10 +114,6 @@ You can check out all the available props and methods [here](https://github.com/
   # Run ESLint
   npm run lint
   
-  # Run Vitest
-  npm run test
-  npm run test:watch
-  
   # Release new version
   npm run release
   ```

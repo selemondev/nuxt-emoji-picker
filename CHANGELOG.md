@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v1.2.2
+
+[compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.1...v1.2.2)
+
+### 🏡 Chore
+
+- **deps-dev:** Bump @nuxt/devtools from 2.6.3 to 2.6.5 ([cea0dcd](https://github.com/selemondev/nuxt-emoji-picker/commit/cea0dcd))
+- **deps-dev:** Bump @types/node from 24.3.1 to 24.5.2 ([22832d7](https://github.com/selemondev/nuxt-emoji-picker/commit/22832d7))
+- **deps-dev:** Bump @types/node from 24.5.2 to 24.9.0 ([ad569f6](https://github.com/selemondev/nuxt-emoji-picker/commit/ad569f6))
+- **deps-dev:** Bump nuxt from 4.1.1 to 4.2.0 ([a6c0a8d](https://github.com/selemondev/nuxt-emoji-picker/commit/a6c0a8d))
+- Update dependencies ([e5d8810](https://github.com/selemondev/nuxt-emoji-picker/commit/e5d8810))
+- Update dependencies ([bdb6299](https://github.com/selemondev/nuxt-emoji-picker/commit/bdb6299))
+- Remove test files and scripts ([f8b5021](https://github.com/selemondev/nuxt-emoji-picker/commit/f8b5021))
+- Remove test dependencies ([d0fdd3a](https://github.com/selemondev/nuxt-emoji-picker/commit/d0fdd3a))
+
+### ❤️ Contributors
+
+- Selemon Brahanu ([@selemondev](https://github.com/selemondev))
+- Selemondev <selemondev19@gmail.com>
+
 ## v1.2.1
 
 [compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.0...v1.2.1)

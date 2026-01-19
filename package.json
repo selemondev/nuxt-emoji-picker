@@ -30,7 +30,7 @@
     "vue3-emoji-picker": "^1.1.8"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^2.7.0",
+    "@nuxt/devtools": "^3.1.1",
     "@nuxt/eslint-config": "^1.12.1",
     "@nuxt/module-builder": "^1.0.2",
     "@nuxt/schema": "^4.2.2",

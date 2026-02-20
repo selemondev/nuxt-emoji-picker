@@ -1,6 +1,21 @@
 # Changelog
 
 
+## v1.2.4
+
+[compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.3...v1.2.4)
+
+### 🏡 Chore
+
+- Remove package-lock.json ([bca375e](https://github.com/selemondev/nuxt-emoji-picker/commit/bca375e))
+- Update release command ([1cbf995](https://github.com/selemondev/nuxt-emoji-picker/commit/1cbf995))
+- Add module compatibility constraint ([e6d1457](https://github.com/selemondev/nuxt-emoji-picker/commit/e6d1457))
+- **release:** V1.2.3 ([fa2b53e](https://github.com/selemondev/nuxt-emoji-picker/commit/fa2b53e))
+
+### ❤️ Contributors
+
+- Selemondev <selemondev19@gmail.com>
+
 ## v1.2.3
 
 [compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.3...v1.2.3)

@@ -1,6 +1,6 @@
 {
   "name": "nuxt-emoji-picker",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Simple and Powerful Emoji Picker for Nuxt 3 ✨",
   "packageManager": "pnpm@10.30.1",
   "repository": "selemondev/nuxt-emoji-picker",
@@ -21,7 +21,7 @@
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build build --stub && nuxt-module-build prepare && nuxi prepare playground",
-    "release": "npm run lint && npm run prepack && changelogen --release --hide-author-email && npm publish && git push --follow-tags",
+    "release": "pnpm lint && pnpm prepack && changelogen --release --hide-author-email && git push --follow-tags",
     "lint": "eslint .",
     "test:types": "vue-tsc --noEmit && cd playground && vue-tsc --noEmit"
   },

@@ -4,6 +4,9 @@ export default defineNuxtModule<Record<string, never>>({
   meta: {
     name: 'nuxt-emoji-picker',
     configKey: 'emoji',
+    compatibility: {
+      nuxt: '>=3.0.0',
+    },
   },
 
   defaults: {},

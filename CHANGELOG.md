@@ -1,6 +1,23 @@
 # Changelog
 
 
+## v1.3.0
+
+[compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.4...v1.3.0)
+
+### 🚀 Enhancements
+
+- Add Nuxt version 4 compatibility ([6bf5e9d](https://github.com/selemondev/nuxt-emoji-picker/commit/6bf5e9d))
+
+### 🏡 Chore
+
+- Update dependencies ([94f4733](https://github.com/selemondev/nuxt-emoji-picker/commit/94f4733))
+- Fix lint issues and update lint command ([0120952](https://github.com/selemondev/nuxt-emoji-picker/commit/0120952))
+
+### ❤️ Contributors
+
+- Selemondev <selemondev19@gmail.com>
+
 ## v1.2.4
 
 [compare changes](https://github.com/selemondev/nuxt-emoji-picker/compare/v1.2.3...v1.2.4)

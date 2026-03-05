@@ -22,7 +22,7 @@
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build build --stub && nuxt-module-build prepare && nuxi prepare playground",
     "release": "pnpm lint && pnpm prepack && changelogen --release --hide-author-email && git push --follow-tags",
-    "lint": "eslint .",
+    "lint": "eslint . --fix",
     "test:types": "vue-tsc --noEmit && cd playground && vue-tsc --noEmit"
   },
   "dependencies": {

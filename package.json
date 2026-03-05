@@ -34,7 +34,7 @@
     "@nuxt/eslint-config": "^1.15.2",
     "@nuxt/module-builder": "^1.0.2",
     "@nuxt/schema": "^4.3.1",
-    "@types/node": "^24.11.0",
+    "@types/node": "^25.3.3",
     "changelogen": "^0.6.2",
     "eslint": "^9.39.3",
     "nuxt": "^4.3.1",
